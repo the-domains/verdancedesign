@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[VerdanceDesign]]></title>
         <description><![CDATA[VerdanceDesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/verdancedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 05:35:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 05:36:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/verdancedesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/verdancedesign/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">d3aeb297-47c7-4222-a6a7-64a1e0b755f9</guid>
-            <pubDate>Thu, 17 Dec 2015 05:35:43 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 05:36:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
