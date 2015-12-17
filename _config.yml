@@ -1,0 +1,28 @@
+name: VerdanceDesign
+favicon: null
+layout_spectrum: 0.19212183845229447
+typography_spectrum: 0.4845802681520581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6626474536024034
+  lightness: 0.6185501061845571
+  saturation: 0.8672780736815184
+  rhythmicContrast: 0.683763419277966
+purpose: []
